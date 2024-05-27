@@ -9,7 +9,7 @@ sticker(here("lehuynh/github_contribution.png"),
         s_y = .75,
         s_width = .6,
         h_fill = "#0D1017",
-        h_color = "#3DE65A",
+        h_color = "#38D353",
         filename = "lehuynh/lehuynh.png")
 
 
